@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BOULBALAH Lahcen</h1>
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=misarb&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misarb&layout=compact" />
+
 </p>
 
 ![Rust](https://img.shields.io/badge/Rust-%2300599C.svg?style=for-the-badge&logo=Rust&logoColor=b7410e)
