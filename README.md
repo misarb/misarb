@@ -19,7 +19,6 @@
 ![ROS](https://img.shields.io/badge/Ros-%2300599C.svg?style=for-the-badge&logo=Ros&logoColor=ffdd54)
 ![Carla](https://img.shields.io/badge/carla-3670A0?style=for-the-badge&logo=carla&logoColor=ffdd54)
 ![Vhdl](https://img.shields.io/badge/Vhdl-3%2300599C.svg?style=for-the-badge&logo=Vhdl&logoColor=b7410e)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
