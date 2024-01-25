@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm BOULBALAH Lahcen</h1>
 
-* I am an Embedded Software Engineer, and a **Huge** Rust and Python enthusiast.
+* I am a Software Engineer, and a **Huge** Rust and Python enthusiast.
 
 * Mostly interested in projects involving to Embedded systems, Programming languages, Developer tools ...
 
